@@ -33,14 +33,6 @@ function App() {
     },
     {
       id: uuid(),
-      equipo: "Programación",
-      foto: "https://github.com/genesysaluralatam.png",
-      nombre: "Genesys Rondón",
-      puesto: "Desarrolladora de software e instructora",
-      fav: true
-    },
-    {
-      id: uuid(),
       equipo: "UX y Diseño",
       foto: "https://github.com/JeanmarieAluraLatam.png",
       nombre: "Jeanmarie Quijada",
